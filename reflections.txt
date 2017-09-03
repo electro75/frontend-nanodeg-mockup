@@ -1,0 +1,11 @@
+What new skills have you learned?
+A. I think my basic Fundamentals of html are quite srong now. I have learnt a lot of new html tags which can do different 
+things, which is quite awesome.
+
+What has been easy? What has been difficult?
+A. I would like to answer these two questions at once.
+As a beginner in programming when i tried to learn through other sources all at once, I found all of it to be very complicated
+and confusing. But the way Cameron explains the concepts makes them really very easy to understande and hence grasp.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+A. I have used the developer.mozilla documentation very helpful. And my mentor Rishabh has also been great help.
